@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Riaz%20Abdullah&fontSize=70&color=0:0d0d0d,100:00c6ff&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=🤖%20AI%20Engineer%20%7C%20🧠%20ML%20Architect%20%7C%20🚀%20Business%20Automation&descAlignY=75&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Riaz%20Abdullah&fontSize=70&color=0:0d0d0d,100:00c6ff&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=🤖%20AI%20Engineer%20%7C%20🧠%20ML%20Architect%20%7C%20🚀%20Business%20Automation&descAlignY=75&descSize=16" />
 </div>
 
 ###
@@ -12,11 +12,20 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riazabdullah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rabdull1@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RiazAbdullah.RiazAbdullah" />
+</div>
+
 ###
+
+---
 
 <br>
 
@@ -30,7 +39,8 @@
 - 🏢 &nbsp; Focused on **Business Development Automation**
 - 💬 &nbsp; Ask me about **AI/ML, Automation Strategy, Business Intelligence**
 - 🚀 &nbsp; Fun fact — *Every business problem has an AI solution!*
-- 📫 &nbsp; Reach me at **riaz@example.com**
+- 📫 &nbsp; Reach me at **rabdull1@gmail.com**
+- 🔗 &nbsp; Connect on **[LinkedIn](https://www.linkedin.com/in/riazabdullah/)**
 - ⚡ &nbsp; Motto — *"Let's build something intelligent together!"*
 
 <br clear="both">
@@ -66,11 +76,11 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" />
-  <img width="8"/>
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="opencv" />
-  <img width="8"/>
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" />
-  <img width="8"/>
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
 </div>
 
@@ -148,21 +158,12 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/RiazAbdullah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/RiazAbdullah" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/RiazAbdullah" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/RiazAbdullah" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-  <a href="mailto:riaz@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+| 🔗 LinkedIn | 📧 Email |
+|:---:|:---:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riazabdullah/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabdull1@gmail.com) |
+| [linkedin.com/in/riazabdullah](https://www.linkedin.com/in/riazabdullah/) | rabdull1@gmail.com |
+
 </div>
 
 ###
@@ -174,5 +175,5 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0d0d0d&height=100&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0d0d0d&height=100&section=footer&animation=fadeIn" />
 </div>
