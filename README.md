@@ -37,7 +37,7 @@
 
 |  🤖 Artificial Intelligence  |  🧠 Deep Learning  |  💬 Large Language Models  |  👁️ Computer Vision  |
 |:---:|:---:|:---:|:---:|
-| <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW8yMmJhMW9iMW1iYTYzNGV5NHd4aXVqeXdiamx3OWxpYzZkc2F0aCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/jJxeGHoi83mqSIxLZp/giphy.gif"/> | <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJrZzExNm91aGhsMzM4MGQ2bGFrYWJhaXZuMzl0aGp3eHZ6ZzFwbiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/RbDKaczqWovIugyJmW/giphy.gif"/> | <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo5bjd5cTNhd3c0NHdyangyaHAwaGQ2OGFreGhuNTY5aHhyaXVrdCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/du3J3oCarsz9nI6lXM/giphy.gif"/> | <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNqMnN5N3RmbzZ1N2lxemZlYndkNXZid3NkcjB6Z2dzdXBtbnZvbCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/xT9IgzoKnwFNmISR8I/giphy.gif"/> |
+| <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> | <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> | <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> | <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/> |
 | Agents · RL · Ethics | Transformers · CNNs | GPT · RAG · Fine-tuning | Detection · Segmentation |
 
 </div>
