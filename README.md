@@ -12,32 +12,18 @@
 
 <br>
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9leDFhNGZocWtlZmtjNm9jYTdkbjN2bXQyOWhnZnNvbDkydHM4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AB2tJ2sKGJc1qMwBjx/giphy.gif" />
-
 ### 👨‍💻 About Me
 
-```python
-class RiazAbdullah:
-    name        = "Riaz Abdullah"
-    username    = "RiazAbdullah"
-    role        = "AI Engineer & Business Automation Architect"
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-    passion     = [
-        "Artificial Intelligence 🤖",
-        "Deep Learning & Neural Nets 🧠",
-        "Large Language Models 💬",
-        "Computer Vision 👁️",
-        "Business Development Automation 🏢",
-    ]
-
-    currently   = "Building LLM-powered automation pipelines"
-    learning    = "Agentic AI & Multi-Agent Systems"
-    ask_me      = "AI/ML, Automation Strategy, Business Intelligence"
-    fun_fact    = "Every business problem has an AI solution 🚀"
-
-    def greet(self):
-        return "Let's build something intelligent together!"
-```
+- 🔭 &nbsp; Currently building **LLM-powered automation pipelines**
+- 🌱 &nbsp; Learning **Agentic AI & Multi-Agent Systems**
+- 🤖 &nbsp; Passionate about **AI · Deep Learning · LLMs · Computer Vision**
+- 🏢 &nbsp; Focused on **Business Development Automation**
+- 💬 &nbsp; Ask me about **AI/ML, Automation Strategy, Business Intelligence**
+- 🚀 &nbsp; Fun fact — *Every business problem has an AI solution!*
+- 📫 &nbsp; Reach me at **riaz@example.com**
+- ⚡ &nbsp; Motto — *"Let's build something intelligent together!"*
 
 <br clear="both">
 
@@ -51,7 +37,7 @@ class RiazAbdullah:
 
 |  🤖 Artificial Intelligence  |  🧠 Deep Learning  |  💬 Large Language Models  |  👁️ Computer Vision  |
 |:---:|:---:|:---:|:---:|
-| <img height="60" src="https://media.giphy.com/media/inDXmAFK1SfoPJZ8gE/giphy.gif"/> | <img height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9leDFhNGZocWtlZmtjNm9jYTdkbjN2bXQyOWhnZnNvbDkydHM4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d4He8F9bZx4ThhjkjV/giphy.gif"/> | <img height="60" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5NGV6MWp0b2x6eWVqa2Y0dmExMHZncDMyMDVhank3a3lnYzlpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uznAKa4IiuguBPOjcj/giphy.gif"/> | <img height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZxNWFjOHh0d3Jnc3dvYXowaW80em1qYmgxbTZyZXF5bnpjc3p1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLLmMPrzP5965bYPdD/giphy.gif"/> |
+| <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW8yMmJhMW9iMW1iYTYzNGV5NHd4aXVqeXdiamx3OWxpYzZkc2F0aCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/jJxeGHoi83mqSIxLZp/giphy.gif"/> | <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJrZzExNm91aGhsMzM4MGQ2bGFrYWJhaXZuMzl0aGp3eHZ6ZzFwbiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/RbDKaczqWovIugyJmW/giphy.gif"/> | <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo5bjd5cTNhd3c0NHdyangyaHAwaGQ2OGFreGhuNTY5aHhyaXVrdCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/du3J3oCarsz9nI6lXM/giphy.gif"/> | <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNqMnN5N3RmbzZ1N2lxemZlYndkNXZid3NkcjB6Z2dzdXBtbnZvbCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/xT9IgzoKnwFNmISR8I/giphy.gif"/> |
 | Agents · RL · Ethics | Transformers · CNNs | GPT · RAG · Fine-tuning | Detection · Segmentation |
 
 </div>
