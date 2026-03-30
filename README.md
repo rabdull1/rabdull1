@@ -10,6 +10,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/riazabdullah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
 <br>
 
 ### 👨‍💻 About Me
@@ -22,7 +30,7 @@
 - 🏢 &nbsp; Focused on **Business Development Automation**
 - 💬 &nbsp; Ask me about **AI/ML, Automation Strategy, Business Intelligence**
 - 🚀 &nbsp; Fun fact — *Every business problem has an AI solution!*
-- 📫 &nbsp; Reach me at **rabdull1@gmail.com**
+- 📫 &nbsp; Reach me at **riaz@example.com**
 - ⚡ &nbsp; Motto — *"Let's build something intelligent together!"*
 
 <br clear="both">
@@ -152,7 +160,7 @@
   <a href="https://huggingface.co/RiazAbdullah" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
-  <a href="rabdull1@gmail.com">
+  <a href="mailto:riaz@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
