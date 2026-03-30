@@ -152,7 +152,7 @@
   <a href="https://huggingface.co/RiazAbdullah" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
-  <a href="mailto:rabdull1@gmail.com">
+  <a href="rabdull1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
