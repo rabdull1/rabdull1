@@ -1,19 +1,67 @@
-<div align="center">
+<img align="left" height="120" src="https://media.giphy.com/media/AB2tJ2sKGJc1qMwBjx/giphy.gif" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Riaz%20Abdullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Business%20Automation&descAlignY=58&descSize=18&animation=fadeIn"/>
+###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Building+Intelligent+Systems...;🧠+Deep+Learning+%7C+LLMs+%7C+Computer+Vision;🏢+Automating+Business+with+AI;💬+I+speak+Python%2C+C%2B%2B%2C+JS+%26+8+more...;🚀+Turning+Ideas+into+Intelligence)](https://git.io/typing-svg)
+<img align="left" height="120" src="https://media.giphy.com/media/inDXmAFK1SfoPJZ8gE/giphy.gif" />
 
-<br/>
+###
 
-![Profile Views](https://komarev.com/ghpvc/?username=RiazAbdullah&color=6EE7F7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/RiazAbdullah?style=for-the-badge&color=6EE7F7&labelColor=0d1117)](https://github.com/RiazAbdullah)
+<img align="left" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9leDFhNGZocWtlZmtjNm9jYTdkbjN2bXQyOWhnZnNvbDkydHM4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d4He8F9bZx4ThhjkjV/giphy.gif" />
 
+###
+
+<img align="left" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5NGV6MWp0b2x6eWVqa2Y0dmExMHZncDMyMDVhank3a3lnYzlpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uznAKa4IiuguBPOjcj/giphy.gif" />
+
+###
+
+<img align="left" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZxNWFjOHh0d3Jnc3dvYXowaW80em1qYmgxbTZyZXF5bnpjc3p1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLLmMPrzP5965bYPdD/giphy.gif" />
+
+###
+
+<img align="left" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3MDA5MTJ6YzNmeWZ3YTE1MGd4cDk3NGdlOXprM3hsb21laWVhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H0xZHg3iPMIiko8wrN/giphy.gif" />
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Riaz%20Abdullah&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20Computer%20Vision%20%7C%20Business%20Automation&descSize=18&descAlign=51&descAlignY=90&textBg=false&color=random" />
 </div>
 
----
+###
 
-## 🧠 About Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/RiazAbdullah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/RiazAbdullah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://medium.com/@RiazAbdullah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+  </a>
+  <a href="https://kaggle.com/RiazAbdullah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/kaggle/default.svg" width="52" height="40" alt="kaggle logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RiazAbdullah.RiazAbdullah&" />
+</div>
+
+###
+
+<h3 align="left">👋 Hey — I need your Attention</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://analyticsindiamag.com/wp-content/uploads/2022/01/ezgif.com-gif-maker-17.gif" />
+</div>
+
+###
 
 ```python
 class RiazAbdullah:
@@ -38,196 +86,147 @@ class RiazAbdullah:
         return "Let's build something intelligent together!"
 ```
 
----
+###
 
-## 💬 I Speak These Languages
+<h3 align="left">🛠 Languages and Tools</h3>
 
-<div align="center">
+###
 
-| 🐍 Python | ⚡ JavaScript | 🔷 TypeScript | ⚙️ C++ |
-|:---:|:---:|:---:|:---:|
-| `print("Hello!")` | `console.log("Hello!")` | `console.log("Hello!")` | `cout << "Hello!";` |
+<h4 align="left">Developing & Deploying AI Systems — LLMs · CV · Automation</h4>
 
-| ☕ Java | 📊 R | 🖥️ Bash | 🗄️ SQL |
-|:---:|:---:|:---:|:---:|
-| `System.out.println("Hello!")` | `print("Hello!")` | `echo "Hello!"` | `SELECT 'Hello!';` |
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cplusplus" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
 </div>
 
----
+###
 
-## 🔬 Fields of Interest
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2NDZld3YwbHJ3MXJlODVkN3dydWdxY3AzcjZvbzJ3ZGN5ZDhkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2cPjL0aw7Zx6egt75W/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhjbHJpYnJhOHY5ZjhyYjAyY21kdzNmNWxiOTB4NWEwaGdveTMzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3AxgS3cJcDtqt39sn/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY241NmZkYWE1dmlneDV3bDNkOGJ6dGNudmF6YmZpZnc5czlwNjJvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEe1kOzp5vg8Xw92U1/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDcyeGVmcDIzb293ZGwyNmc5ZHF0cmFzMzFrM2w3bWNzMTBqYmlncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcYONukAU7ihKtqJQI/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVheDViMTJ5d3NobGVrb2trZ2M4djhkZWlubHhvMnZrdWdyYWF2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vF3jbCEGJPfNIAD28m/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFzODdmNTlqYnYzMjh5bm43NnB3bmY0Y2JoY2k1bHZvNG5sbXh5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fb5kkhQhUQW0lLnA5O/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZyaW5tcHlxeTZjbjFpeW0xNmdmMDZ5MWR6YzBlazh1cTFibjVmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/08wToMdpYVyQPUbJc1/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXExMmhwMXpjZjZjZG4wc3BzOWo3OHJpNWU2OG1ubXVkbXhxaWxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JR09s5kv1ApT6WM76V/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmcXV6c3V6aXV3MnRnazdpOXJva3R5ajh6MTZlYXBmcWJ0OXkzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w4kTuxzaW4agblFAY5/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE2ejE4dnpnaWE4N2l4bnJkbjk4aHY2bm9xaGtiY252NmFmczVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKOhtkeMaECs0KjI3Y/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdpbjByemxzbThidjc2bWI2czlsaWd5bDlrYzE4bmJ3MzF5dDhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q3k1EhO0uIyyo96isd/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndsZDU0YTlsZ2ttdTVtY3Vxa2xweXVzc3pweXpneHBramQ0MWtmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EetutChFkoXfu9O1PN/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw0bDJpcjRsOHB5cHBsdHFka3F5c292czVsMno4Yjg3cTB0dnc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kUSbonI0s9QcARdUYo/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVmMjhrOWtvYWV4YWVyMno1ZG44NWx6NHJtZXFvMGtoNXd4aTMyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qij4dIN5wTxFMpQTnY/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmgxZ2N1OHdyYmFpZXBrcGg3ancxM2swdXgwbnB5b3VsMnVsZzg1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DG8hFpaeHX1pNDsjlC/giphy.gif" />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJiYmFuNGZnZnByZzFxMDM0b3NuOWE2ZDRlODE3cG53ZjJnZzgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YEbmDAdDpcoIImsZ8h/giphy.gif" />
+
+###
+
+<br clear="both">
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                     RESEARCH INTERESTS                          ║
-╠══════════════════╦══════════════════╦══════════════════════════╣
-║  🤖 Artificial   ║  🧠 Deep         ║  💬 Large Language       ║
-║   Intelligence   ║   Learning       ║   Models (LLMs)          ║
-╠══════════════════╩══════════════════╩══════════════════════════╣
-║    👁️ Computer Vision     ║    🏢 Business Automation          ║
-╚══════════════════════════╩════════════════════════════════════╝
-```
-
+  <img src="https://github-readme-stats.vercel.app/api?username=RiazAbdullah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiazAbdullah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-### 🤖 Artificial Intelligence
-![Agents](https://img.shields.io/badge/Intelligent_Agents-0f0c29?style=flat-square&logoColor=white)
-![RL](https://img.shields.io/badge/Reinforcement_Learning-302b63?style=flat-square&logoColor=white)
-![MultiAgent](https://img.shields.io/badge/Multi--Agent_Systems-24243e?style=flat-square&logoColor=white)
-![AI Ethics](https://img.shields.io/badge/AI_Ethics_&_Safety-0f0c29?style=flat-square&logoColor=white)
-
-### 🧠 Deep Learning
-![Transformers](https://img.shields.io/badge/Transformers-1a1a2e?style=flat-square&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs_&_RNNs-16213e?style=flat-square&logoColor=white)
-![GenModels](https://img.shields.io/badge/Generative_Models-0f3460?style=flat-square&logoColor=white)
-![TransferLearning](https://img.shields.io/badge/Transfer_Learning-533483?style=flat-square&logoColor=white)
-
-### 💬 Large Language Models
-![LLMs](https://img.shields.io/badge/GPT_/_LLaMA_/_Gemini-0d1117?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logoColor=white)
-![Prompting](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&logoColor=white)
-![FineTuning](https://img.shields.io/badge/Fine--tuning_LLMs-0d1117?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white)
-
-### 👁️ Computer Vision
-![ObjDetect](https://img.shields.io/badge/Object_Detection-1b1b2f?style=flat-square&logoColor=white)
-![ImgClass](https://img.shields.io/badge/Image_Classification-1b1b2f?style=flat-square&logoColor=white)
-![Segmentation](https://img.shields.io/badge/Semantic_Segmentation-1b1b2f?style=flat-square&logoColor=white)
-![FaceRec](https://img.shields.io/badge/Facial_Recognition-1b1b2f?style=flat-square&logoColor=white)
-![VideoAnalysis](https://img.shields.io/badge/Video_Analysis-1b1b2f?style=flat-square&logoColor=white)
-
----
-
-## 🛠️ Tech Stack
-
-### 🧬 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI / ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-
-### 💻 Web & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🗄️ Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-## 📊 Skill Proficiency
-
-```text
-Artificial Intelligence   ████████████████████  100%
-Deep Learning             ███████████████████░   95%
-Large Language Models     ██████████████████░░   90%
-Computer Vision           ████████████████░░░░   80%
-Business Automation       ███████████████████░   95%
-Python                    ████████████████████  100%
-C++ / Java                ███████████████░░░░░   75%
-JavaScript / TypeScript   █████████████████░░░   85%
-Cloud & DevOps            ██████████████░░░░░░   70%
-Data Engineering          ████████████████░░░░   80%
-```
-
----
-
-## 📈 GitHub Stats
+###
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiazAbdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiazAbdullah&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiazAbdullah&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
+###
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RiazAbdullah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://github-profile-trophy.vercel.app?username=RiazAbdullah&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
+###
+
 <div align="center">
-
-[![Riaz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RiazAbdullah&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://streak-stats.demolab.com?user=RiazAbdullah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
----
+###
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RiazAbdullah&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building **LLM-powered business automation** pipelines
-- 🌱 Exploring **Agentic AI** and **multi-agent systems**
-- 🤝 Open to collaborating on **AI for Business** projects
-- 💡 Researching **Computer Vision + LLM multimodal** fusion
-- 📖 Deep-diving **Retrieval-Augmented Generation (RAG)**
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riazabdullah/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RiazAbdullah)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiazAbdullah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riaz@example.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/RiazAbdullah)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RiazAbdullah)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Quote I Live By
-
-> *"The best way to predict the future is to build it — with intelligence."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
-
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=80&section=footer" />
 </div>
