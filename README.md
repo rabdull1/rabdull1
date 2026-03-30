@@ -22,7 +22,7 @@
 - 🏢 &nbsp; Focused on **Business Development Automation**
 - 💬 &nbsp; Ask me about **AI/ML, Automation Strategy, Business Intelligence**
 - 🚀 &nbsp; Fun fact — *Every business problem has an AI solution!*
-- 📫 &nbsp; Reach me at **riaz@example.com**
+- 📫 &nbsp; Reach me at **rabdull1@gmail.com**
 - ⚡ &nbsp; Motto — *"Let's build something intelligent together!"*
 
 <br clear="both">
