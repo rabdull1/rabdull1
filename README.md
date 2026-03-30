@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Riaz+Abdullah;🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+%7C+LLMs+%7C+Computer+Vision;🏢+Business+Development+Automation;🚀+Let's+build+something+intelligent!" />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riazabdullah/" target="_blank">
