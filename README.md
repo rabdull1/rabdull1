@@ -41,7 +41,7 @@
 
 I lead complex technology initiatives at the intersection of AI, enterprise operations, product strategy, and program delivery. My work focuses on translating business problems into practical AI products, coordinating cross-functional teams, managing delivery risks, and building reliable, responsible solutions.
 
-### 🎯 AI Product Strategy
+###  AI Product Strategy
 
 I work with business and technical stakeholders to identify where AI creates real value, prioritize use cases by feasibility and impact, and build roadmaps that engineering teams can actually deliver. Adoption is part of the work, not an afterthought.
 
@@ -49,7 +49,7 @@ I work with business and technical stakeholders to identify where AI creates rea
 
 ---
 
-### 📋 Technical Program Management
+###  Technical Program Management
 
 I run delivery across engineering, data, and product teams on AI initiatives where requirements shift and timelines are tight. I track dependencies, own the risk register, and keep executives informed without drowning teams in process.
 
@@ -57,7 +57,7 @@ I run delivery across engineering, data, and product teams on AI initiatives whe
 
 ---
 
-### 🤖 AI Engineering
+###  AI Engineering
 
 I design and ship LLM pipelines, agentic systems, and RAG architectures that hold up in production. Evaluation and monitoring are built in from day one, not bolted on after launch.
 
