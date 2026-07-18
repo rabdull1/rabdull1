@@ -1,5 +1,15 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Riaz%20Abdullah&fontSize=60&color=0:0d0d0d,100:00c6ff&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20Product%20%26%20Technical%20Program%20Leader&descAlignY=75&descSize=16" />
+  <svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0d0d0d"/>
+        <stop offset="100%" style="stop-color:#00293d"/>
+      </linearGradient>
+    </defs>
+    <rect width="900" height="180" fill="url(#bg)" rx="12"/>
+    <text x="450" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#00c6ff" text-anchor="middle" dominant-baseline="middle">Riaz Abdullah</text>
+    <text x="450" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#e0f4ff" text-anchor="middle" dominant-baseline="middle">AI Product &amp; Technical Program Leader</text>
+  </svg>
 </div>
 
 ###
@@ -147,5 +157,13 @@ I lead complex technology initiatives at the intersection of AI, enterprise oper
 ###
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0d0d0d&height=100&section=footer&animation=fadeIn" />
+  <svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00c6ff"/>
+        <stop offset="100%" style="stop-color:#0d0d0d"/>
+      </linearGradient>
+    </defs>
+    <path d="M0,40 C150,80 300,0 450,40 C600,80 750,0 900,40 L900,80 L0,80 Z" fill="url(#wave)"/>
+  </svg>
 </div>
