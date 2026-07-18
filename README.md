@@ -127,15 +127,6 @@ I lead complex technology initiatives at the intersection of AI, enterprise oper
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiazAbdullah&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="150" />
-</div>
-
-###
-
----
 
 ### 🌐 Connect With Me
 
