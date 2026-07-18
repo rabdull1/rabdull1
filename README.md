@@ -104,27 +104,6 @@ I lead complex technology initiatives at the intersection of AI, enterprise oper
 
 ---
 
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RiazAbdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiazAbdullah&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RiazAbdullah&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiazAbdullah&theme=tokyo-night&hide_border=true&area=true" height="280" />
-</div>
-
-###
-
 ---
 
 
