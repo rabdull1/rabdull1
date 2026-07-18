@@ -1,14 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Riaz%20Abdullah&fontSize=70&color=0:0d0d0d,100:00c6ff&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=🤖%20AI%20Engineer%20%7C%20🧠%20ML%20Architect%20%7C%20🚀%20Business%20Automation&descAlignY=75&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Riaz%20Abdullah&fontSize=60&color=0:0d0d0d,100:00c6ff&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=🎯%20AI%20Product%20%26%20Technical%20Program%20Leader&descAlignY=75&descSize=16" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Riaz+Abdullah;🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+%7C+LLMs+%7C+Computer+Vision;🏢+Business+Development+Automation;🚀+Let's+build+something+intelligent!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=AI+Product+%26+Technical+Program+Leader;Building+LLM%2C+Agentic+AI+and+Responsible+Automation+Solutions" />
 </div>
-
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riazabdullah/" target="_blank">
@@ -29,21 +27,17 @@
 
 <br>
 
-### 👨‍💻 About Me
+### Executive Summary
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I lead complex technology initiatives at the intersection of AI, enterprise operations, product strategy, and program delivery. My work focuses on translating business problems into practical AI products, coordinating cross-functional teams, managing delivery risks, and building reliable, responsible solutions.
 
-- 🔭 &nbsp; Currently building **LLM-powered automation pipelines**
-- 🌱 &nbsp; Learning **Agentic AI & Multi-Agent Systems**
-- 🤖 &nbsp; Passionate about **AI · Deep Learning · LLMs · Computer Vision**
-- 🏢 &nbsp; Focused on **Business Development Automation**
-- 💬 &nbsp; Ask me about **AI/ML, Automation Strategy, Business Intelligence**
-- 🚀 &nbsp; Fun fact — *Every business problem has an AI solution!*
-- 📫 &nbsp; Reach me at **rabdull1@gmail.com**
-- 🔗 &nbsp; Connect on **[LinkedIn](https://www.linkedin.com/in/riazabdullah/)**
-- ⚡ &nbsp; Motto — *"Let's build something intelligent together!"*
+**Focus Areas**
 
-<br clear="both">
+- 🎯 **AI Product Strategy** — use cases, roadmaps, prioritization and adoption
+- 📋 **Technical Program Management** — dependencies, risks, milestones and stakeholder alignment
+- 🤖 **AI Engineering** — LLMs, agents, RAG, automation and evaluation
+
+📫 Reach me at **rabdull1@gmail.com** &nbsp;|&nbsp; 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/riazabdullah/)**
 
 ###
 
@@ -94,28 +88,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" height="45" />
-</div>
-
-###
-
----
-
-### 📊 Skill Proficiency
-
-<div align="center">
-
-```text
-🤖  Artificial Intelligence   ████████████████████  100%
-🧠  Deep Learning              ███████████████████░   95%
-💬  LLMs & Generative AI       ██████████████████░░   90%
-👁️  Computer Vision            ████████████████░░░░   80%
-🏢  Business Automation        ███████████████████░   95%
-🐍  Python                     ████████████████████  100%
-⚙️  C++ / Java                 ███████████████░░░░░   75%
-⚡  JavaScript / TypeScript    █████████████████░░░   85%
-☁️  Cloud & DevOps             ██████████████░░░░░░   70%
-```
-
 </div>
 
 ###
